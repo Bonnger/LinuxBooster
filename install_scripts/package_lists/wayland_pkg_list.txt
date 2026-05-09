@@ -1,0 +1,15 @@
+wayland
+xorg-xwayland
+waybar
+nwg-look
+wlsunset
+wl-clipboard
+swaybg
+sway
+hyprland
+swaylock
+xdg-desktop-portal-wlr
+xdg-desktop-portal-hyprland
+mako
+grim
+satty
