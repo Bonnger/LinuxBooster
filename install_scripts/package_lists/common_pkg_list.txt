@@ -12,7 +12,6 @@ inetutils
 wget
 unzip
 unrar
-7zip
 tar
 unrar
 brightnessctl
