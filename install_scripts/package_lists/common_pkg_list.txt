@@ -47,3 +47,5 @@ lf
 trash-cli
 chafa
 btop
+vlc
+vlc-all
