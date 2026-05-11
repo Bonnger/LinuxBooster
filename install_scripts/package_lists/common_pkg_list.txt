@@ -49,3 +49,7 @@ chafa
 btop
 vlc
 vlc-all
+cups
+hplip
+obsidian
+qbittorrent
