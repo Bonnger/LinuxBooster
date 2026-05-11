@@ -1,10 +1,1 @@
-dev.vencord.Vesktop
-org.telegram.desktop
-org.libreoffice.LibreOffice
-org.gimp.GIMP
-org.inkscape.Inkscape
-org.localsend.localsend_app
-org.qbittorrent.qBittorrent
-org.kde.kdenlive
-com.getpostman.Postman
-com.mongodb.Compass
+org.vinegarhq.Sober
