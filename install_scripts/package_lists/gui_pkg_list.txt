@@ -12,6 +12,5 @@ xdg-user-dirs
 zathura
 zathura-pdf-poppler
 ristretto
-mpv
 ly
-firefox-developer-edition
+firefox
