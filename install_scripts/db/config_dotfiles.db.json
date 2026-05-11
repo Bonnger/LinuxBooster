@@ -5,19 +5,9 @@
     "config_des": "$HOME/.config/foot"
   },
   {
-    "name": "neovim",
-    "config_src": "$HOME/.local/share/config_dotfiles/config/nvim",
-    "config_des": "$HOME/.config/nvim"
-  },
-  {
     "name": "swaywm",
     "config_src": "$HOME/.local/share/config_dotfiles/config/sway",
     "config_des": "$HOME/.config/sway"
-  },
-  {
-    "name": "hyprland",
-    "config_src": "$HOME/.local/share/config_dotfiles/config/hypr",
-    "config_des": "$HOME/.config/hypr"
   },
   {
     "name": "waybar",
